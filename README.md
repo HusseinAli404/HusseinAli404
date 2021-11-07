@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hussein Ali</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husseinaliofficial" alt="husseinaliofficial" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HusseinAliOfficial?tab=repositories](https://github.com/HusseinAliOfficial?tab=repositories)
