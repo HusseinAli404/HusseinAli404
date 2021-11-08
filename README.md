@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **hussein.ali.mabrouk.abotalb@gmail.com**
 
-- ⚡ Fun fact **Octopuses have three hearts**
+- ⚡ Fun fact ** Octopuses have three hearts**
