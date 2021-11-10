@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hussein Ali</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
-- 🌱 I’m currently learning **Data Science**
+<h3 align="center">A passionate Data Science Learner from Egypt</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/HusseinAliOfficial?tab=repositories](https://github.com/HusseinAliOfficial?tab=repositories)⚡
 
