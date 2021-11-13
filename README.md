@@ -6,4 +6,3 @@
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/HusseinAliOfficial?tab=repositories)
 
 - 📝 I regularly write articles on [Articles](https://github.com/HusseinAliOfficial/Articles)
-
