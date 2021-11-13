@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Data Science Learner from Egypt</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/HusseinAliOfficial?tab=repositories](https://github.com/HusseinAliOfficial?tab=repositories)⚡
+- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/HusseinAliOfficial?tab=repositories)**⚡
 
-- 📝 I regularly write articles on [https://github.com/HusseinAliOfficial/Articles](https://github.com/HusseinAliOfficial/Articles)⚡
+- 📝 I regularly write articles on **[Articles](https://github.com/HusseinAliOfficial/Articles)**⚡
 
-- 📫 How to reach me **hussein.ali.mabrouk.abotalb@gmail.com**⚡
+- 📫 How to reach me **[Gmail](hussein.ali.mabrouk.abotalb@gmail.com)**⚡
