@@ -7,4 +7,3 @@
 
 - 📝 I regularly write articles on [Articles](https://github.com/HusseinAliOfficial/Articles)
 
-- 📫 How to reach me [Gmail](hussein.ali.mabrouk.abotalb@gmail.com)
