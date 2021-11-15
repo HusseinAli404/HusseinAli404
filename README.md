@@ -7,4 +7,20 @@
 
 <h5 align="Left">📝 I regularly write articles on <a href="https://github.com/HusseinAliOfficial/Articles">Articles</a></h5>
 
+### Languages
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+### Find me
+<p>
+  <a href="mailto:hussein.ali.mabrouk.abotalb@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/HusseinAliOfficial">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/HusseinAli404">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
