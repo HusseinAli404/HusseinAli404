@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hussein Ali</h1>
 <h3 align="center">A passionate Data Science Learner from Egypt</h3>
 
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h5 align="Left">👨‍💻 All of my projects are available <a href="https://github.com/HusseinAliOfficial?tab=repositories">here</a></h5>
 
 ### Languages
