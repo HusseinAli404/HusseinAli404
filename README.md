@@ -9,12 +9,6 @@
 ### Languages and Tools 🛠 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
-![Docker](https://badges.aleen42.com/src/docker.svg)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://badges.aleen42.com/src/gitlab.svg)
-![GitHub](https://badges.aleen42.com/src/github.svg)
-![VS Code](https://badges.aleen42.com/src/visual_studio_code.svg)
 
 #
 ### Find me
