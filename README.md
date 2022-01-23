@@ -16,7 +16,7 @@
   <a href="mailto:hussein.ali.mabrouk.abotalb@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HusseinAliOfficial">
+  <a href="https://github.com/HusseinAli404">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://twitter.com/HusseinAli404">
