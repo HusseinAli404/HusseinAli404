@@ -12,7 +12,7 @@
 #
 ### Find me
 <p>
-  <a href="mailto:hussein.ali.mabrouk.abotalb@gmail.com">
+  <a href="mailto:HusseinAli404@outlook.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/HusseinAli404">
